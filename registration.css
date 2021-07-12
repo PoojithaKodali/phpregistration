@@ -1,0 +1,80 @@
+h1{
+	text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	color:rgb(65, 79, 207);
+}
+form{
+    background-color:rgb(136, 25, 58);
+    color: black;
+    font-size: 23px;
+    text-align: center;
+    padding-top: 8px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 12px;
+    padding-bottom: 8px;
+}
+
+input[type="text"] {
+    width: 96%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 3px solid rgb(37, 36, 36);
+    border-radius: 13px;
+    box-sizing: border-box;
+    font-size: large;
+    background-color: rgb(255, 240, 192);
+    
+}
+input[type='password'] {
+    width: 96%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 3px solid rgb(37, 36, 36);
+    border-radius: 13px;
+    box-sizing: border-box;
+    font-size: large;
+    background-color: rgb(255, 240, 192);
+    
+}
+
+
+input[type="email"]{
+    width: 96%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 3px solid rgb(37, 36, 36);
+    border-radius: 13px;
+    box-sizing: border-box;
+    font-size: large;
+    background-color: rgb(255, 240, 192);
+}
+
+.button {
+    background-color:rgb(92, 158, 219);
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    padding: 12px 30px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline-block;
+    margin-right: 0%;
+    border-radius: 50px;
+}
+.button:hover {
+    background-color: rgb(10, 85, 60);
+   
+    color: white;
+}
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNz-XfKhmur7WFQtqcZJhv6p7nXI3Gqocc4g&usqp=CAU");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 150px;
+}
+
